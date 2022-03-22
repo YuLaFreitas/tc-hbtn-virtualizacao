@@ -2,7 +2,7 @@
 
 ##Será preciso habilitar o *Hyper-V* no SO (Sistema operacional):
 
-1. Verificar se o SO esta atualizado. 
+1. Verificar se o SO (Windows 2008 Enterprise) esta atualizado. 
 2. Inicie o Server Manager e instale o **Hyper-V**
    1. Inicie.
    2. Clique em Roles e adcione um novo Roles (Add Roles).
@@ -22,7 +22,7 @@
       * Defina o nome da VM.
       * O tamanho da memoria que será diponibilizado.
       * Escolha um disco que existe localmente.
-      * Escolha o adapatador de rede virtual.
+      * Escolha o adaptador de rede.
       * Aponte um disco para boot.
       * Escolha um disco Virtual.
       * E, escolha um real.
@@ -36,13 +36,13 @@
    
 #Sobre o seu tipo?
 
-## Este é uma VM do tipo 2, do *Hyper-V*, já que usara um sistema operacional como base para execultar seus serviços.
+## Este é uma VM do hypervisor tipo 2, já que usara um sistema operacional, no caso o Windows Server, como base para execultar seus serviços.
 
 #Atualizacação do servidor
 
-| Componentes  | Atual  | Atualizado |
-|--------------|--------|------------|
-| Memória Ram  | 8GB    | 32GB       |
-| Processador  | 2.4GHz | 5GHZ       |
-| Disco Rigido | 500GB  | 6TB        |
+| Componentes         | Atual                   | Atualizado              |
+|---------------------|-------------------------|-------------------------|
+| Memória Ram         | 8GB                     | 32GB                    |
+| Processador         | 2.4GHz                  | 5GHZ                    |
+| Disco Rigido        | 500GB                   | 6TB                     |
 
