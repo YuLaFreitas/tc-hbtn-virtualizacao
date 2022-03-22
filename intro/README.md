@@ -36,9 +36,9 @@
    
 #Sobre o seu tipo?
 
-## Este é uma VM do hypervisor tipo 2, já que usara um sistema operacional, no caso o Windows Server, como base para execultar seus serviços.
+## Este é uma VM do hypervisor do tipo 2, já que usara um sistema operacional, no caso o Windows Server, como base para execultar seus serviços.
 
-#Atualizacação do servidor
+#Atualizacação do host:
 
 | Componentes         | Atual                   | Atualizado              |
 |---------------------|-------------------------|-------------------------|
